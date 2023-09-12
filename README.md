@@ -216,7 +216,7 @@ For Polars, the dataset is loaded into a Polars DataFrame and provides correspon
 # dask==2023.8.1
 # pandas==2.0.3
 # polars==0.18.15
-# 
+# requests==2.31.0
 
 # Import necessary libraries
 import pandas as pd
